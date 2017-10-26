@@ -1,0 +1,10 @@
+F:\Automation\Training c#\Training-c-basic\Lab4\bin\Debug\netcoreapp2.0\Lab4.deps.json
+F:\Automation\Training c#\Training-c-basic\Lab4\bin\Debug\netcoreapp2.0\Lab4.runtimeconfig.json
+F:\Automation\Training c#\Training-c-basic\Lab4\bin\Debug\netcoreapp2.0\Lab4.runtimeconfig.dev.json
+F:\Automation\Training c#\Training-c-basic\Lab4\bin\Debug\netcoreapp2.0\Lab4.dll
+F:\Automation\Training c#\Training-c-basic\Lab4\bin\Debug\netcoreapp2.0\Lab4.pdb
+F:\Automation\Training c#\Training-c-basic\Lab4\obj\Debug\netcoreapp2.0\Lab4.csproj.CoreCompileInputs.cache
+F:\Automation\Training c#\Training-c-basic\Lab4\obj\Debug\netcoreapp2.0\Lab4.AssemblyInfoInputs.cache
+F:\Automation\Training c#\Training-c-basic\Lab4\obj\Debug\netcoreapp2.0\Lab4.AssemblyInfo.cs
+F:\Automation\Training c#\Training-c-basic\Lab4\obj\Debug\netcoreapp2.0\Lab4.dll
+F:\Automation\Training c#\Training-c-basic\Lab4\obj\Debug\netcoreapp2.0\Lab4.pdb
