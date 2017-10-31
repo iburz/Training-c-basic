@@ -7,43 +7,38 @@ namespace Lab4
     {
         static void Main(string[] args)
         {
-            var cat1 = new Kitty()
+            var cat1 = new Cat()
             {
                 Name = "Tomas"
             };
-            var cat2 = new Kitty()
+            var cat2 = new Cat()
             {
                 Name = "Viorel"
             };
-            var cat3 = new Kitty()
+            var cat3 = new Cat()
             {
                 Name = "Fox"
             };
+            var dog1 = new Dog()
+            {
+                Name = "Toto"
+            };
 
-            var CatList = new List<Kitty>();
+
+            var CatList = new List<Cat>();
             CatList.Add(cat1);
             CatList.Add(cat2);
             CatList.Add(cat3);
-            for (var i = 0; i < CatList.Count; i++)
-            {
-                CatList[i].MakeNoise();
-            }
-
             foreach (var cat in CatList)
             {
                 cat.MakeNoise();
             }
         }
     }
-    public class Kitty
-    {
 
-        public string Name { get; set; }
-        public void MakeNoise()
-        {
-            Console.WriteLine(Name + " says Miau");
-
-        }
-    }
 }
+
+
+
+
 
